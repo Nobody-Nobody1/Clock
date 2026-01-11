@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Clock",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}/clock.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
