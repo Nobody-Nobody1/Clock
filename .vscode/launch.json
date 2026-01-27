@@ -4,7 +4,7 @@
             "name": "Python: Clock",
             "type": "debugpy",
             "request": "launch",
-            "program": "${file}/clock.py",
+            "program": "${workspaceFolder}/clock.py",
             "console": "integratedTerminal"
         }
     ]
