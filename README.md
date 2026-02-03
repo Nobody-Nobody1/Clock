@@ -1,0 +1,5 @@
+- check dist folder
+- download .exe file and run it from file explorer since it's not signed.
+- Drag the clock display to move it around.
+- Great to use on devices that don't display seconds and keeps location settings off.
+- Doesn't depend on it and uses the Tkinter python library as a gui.
